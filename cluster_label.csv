@@ -1,0 +1,19 @@
+City,Product line,Quantity,Popularity,gross income
+Mandalay,Electronic accessories,316,1,811.9735000000001
+Mandalay,Fashion accessories,297,1,781.5865
+Mandalay,Food and beverages,270,2,724.5185
+Mandalay,Health and beauty,320,1,951.46
+Mandalay,Home and lifestyle,295,1,835.6745
+Mandalay,Sports and travel,322,1,951.819
+Naypyitaw,Electronic accessories,333,0,903.2845
+Naypyitaw,Fashion accessories,342,0,1026.67
+Naypyitaw,Food and beverages,369,0,1131.7549999999999
+Naypyitaw,Health and beauty,277,2,791.206
+Naypyitaw,Home and lifestyle,245,2,661.693
+Naypyitaw,Sports and travel,265,2,750.568
+Yangon,Electronic accessories,322,1,872.2435
+Yangon,Fashion accessories,263,2,777.7385
+Yangon,Food and beverages,313,1,817.2905000000001
+Yangon,Health and beauty,257,2,599.893
+Yangon,Home and lifestyle,371,0,1067.4855
+Yangon,Sports and travel,333,0,922.5095
